@@ -21,7 +21,6 @@ Busco desenvolver soluções seguindo boas práticas de arquitetura de software,
 ### Linguagens
 - 🐍 Python
 - 🟨 JavaScript
-- ⚡ C++
 - 📊 R
 
 ### Desenvolvimento Web
